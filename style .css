@@ -1,0 +1,24 @@
+.dtHorizontalVerticalExampleWrapper {
+    max-width: 600px;
+ 
+    margin: 0 auto;
+    }
+ .scrollable{
+    max-height: 200px;
+    overflow: scroll!important;
+ }
+ .overflow-auto{
+     max-height: 50px;
+     max-width: 50px;
+     overflow: auto;
+ }
+ table tbody{
+     height: 200px;
+ }
+
+ /*
+ important links
+ https://datatables.net/download/
+ https://mdbootstrap.com/docs/b4/jquery/tables/scroll/
+ https://www.youtube.com/watch?v=yGBk9Nalyq8&t=240s
+ */
