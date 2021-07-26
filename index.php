@@ -1,4 +1,4 @@
 <?php
-include_once('scollabletable');
+include_once('scollabletable.html');
 
 ?>
